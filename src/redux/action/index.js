@@ -1,4 +1,4 @@
-// For Add Item to Cart
+// For Add Item to Cart 
 export const addCart = (product) =>{
     return {
         type:"ADDITEM",
