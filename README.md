@@ -135,7 +135,7 @@ To resolve it, I started the agent with sudo service codedeploy-agent start, ver
 
 Key Learnings:
 
-Working through this project gave me practical experience in how AWS DevOps services connect and depend on each other. The most valuable insight was understanding that IAM misconfigurations are the most common and least obvious source of deployment failures. A pipeline can pass the Source and Build stages cleanly and still fail at Deploy purely because of a missing policy, which requires knowing where to look in the logs to identify it.
+Working through this project gave me the practical experience in how AWS DevOps services connect and depend on each other. The most valuable insight was understanding that IAM misconfigurations are the most common and least obvious source of deployment failures. A pipeline can pass the Source and Build stages cleanly and still fail at Deploy purely because of a missing policy, which requires knowing where to look in the logs to identify it.
 
 I also learned that troubleshooting CI/CD pipelines requires a methodical approach — identifying the failure point first, reading the exact error message in the logs, verifying the configuration of the relevant service, testing the fix, and documenting the solution. Skipping any of these steps leads to guessing rather than diagnosing.
 
