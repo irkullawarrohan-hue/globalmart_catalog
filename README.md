@@ -145,6 +145,6 @@ The experience of intentionally breaking and fixing each component gave me a muc
 
 Tech Stack:
 
-AWS CodePipeline, AWS CodeDeploy, Amazon EC2, AWS IAM, Amazon S3, Amazon CloudWatch, AWS Security Groups, GitHub, Nginx, Node.js, React, Amazon Linux 2, Bash
+AWS CodePipeline, AWS CodeDeploy, Amazon EC2, AWS IAM, Amazon S3, Amazon CloudWatch, AWS Security Groups, GitHub, Nginx, Node.js, React, Amazon Linux 2, Bash, shell
 
 
