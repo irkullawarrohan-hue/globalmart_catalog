@@ -47,7 +47,7 @@ Services Used:
 
 This is the architectural diagram for the project:
 
-<img width="1038" height="405" alt="image" src="https://github.com/user-attachments/assets/bd4e23b8-f7bd-47a0-bc7e-eddbc5c151c3" />
+<img width="1038" height="405" alt="image" src="https://github.com/user-attachments/assets/bd4e23b8-f7bd-47a0-bc7e-eddbc5c151c3"/>
 
 Final Result:
 
