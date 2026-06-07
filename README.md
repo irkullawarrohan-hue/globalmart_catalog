@@ -54,7 +54,7 @@ issues — just as a cloud support engineer would in a production environment.
 
 
 
-## Architectural diagram for the project:
+## Architectural diagram of the project:
 
 <img width="1038" height="405" alt="image" src="https://github.com/user-attachments/assets/471a6de7-e2ee-42b8-8b43-031efc83691b" />
 
