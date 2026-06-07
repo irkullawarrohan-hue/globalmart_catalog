@@ -38,13 +38,20 @@ issues — just as a cloud support engineer would in a production environment.
 
 ## Services Used:
 
-• AWS CodePipeline: Fully managed continuous delivery service
-• AWS CodeDeploy: Deployment service for EC2 instances
-• Amazon EC2: Compute instances for hosting the e-commerce application
-• AWS IAM: Identity and access management for AWS resources
-• GitHub: Source code repository with webhook integration
-• Amazon S3: Storage for deployment artifacts
-• AWS Security Groups: Virtual firewalls controlling network traffic
+• **AWS CodePipeline**: Fully managed continuous delivery service
+
+• **AWS CodeDeploy**: Deployment service for EC2 instances
+
+• **Amazon EC2**: Compute instances for hosting the e-commerce application
+
+• **AWS IAM**: Identity and access management for AWS resources
+
+• **GitHub**: Source code repository with webhook integration
+
+• **Amazon S3**: Storage for deployment artifacts
+
+• **AWS Security Groups**: Virtual firewalls controlling network traffic
+
 
 
 ## Architectural diagram for the project:
